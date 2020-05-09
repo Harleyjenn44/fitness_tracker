@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Harleyjenn44/fitness_tracker/issues"
   },
-  "homepage": "https://github.com/Harleyjenn44/fitness_tracker#readme"
+  "homepage": "https://github.com/Harleyjenn44/fitness_tracker#readme",
+  "dependencies": {
+    "mongoose": "^5.9.13"
+  }
 }
