@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Harleyjenn44/fitness_tracker#readme",
   "dependencies": {
-    "mongoose": "^5.9.13"
+    "mongoose": "^5.13.15"
   }
 }
